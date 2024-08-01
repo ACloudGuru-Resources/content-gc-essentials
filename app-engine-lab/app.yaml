@@ -16,9 +16,8 @@
 # See https://cloud.google.com/appengine/docs/python/config/appconfig
 # for details.
 
-runtime: python27
+runtime: python312
 api_version: 1
-threadsafe: true
 
 handlers:
 - url: /styles
